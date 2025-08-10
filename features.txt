@@ -1,0 +1,37 @@
+Core Features
+Save code snippets locally
+
+Store snippets in a JSON file inside the user’s project.
+
+Option to choose custom save location.
+
+Retrieve snippets
+
+Search snippets by name or keyword.
+
+List all saved snippets in a neat format.
+
+Update snippets
+
+Edit snippet content or rename it without creating duplicates.
+
+Delete snippets
+
+Remove a snippet by name or ID.
+
+Extra Features (still simple)
+Tags
+
+Add tags to snippets for easier categorization (e.g., auth, database, UI).
+
+Language detection
+
+Automatically detect snippet’s programming language from file extension for organization.
+
+Quick copy to clipboard
+
+snippet copy <name> copies snippet content directly to the clipboard.
+
+Export & import snippets
+
+Easily share all your snippets with others or sync between projects.
