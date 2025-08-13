@@ -39,7 +39,18 @@
           ".tsx"
         ]
       }
-    ]
+    ],
+    "configuration": {
+      "type": "object",
+      "title": "Import Hover Preview",
+      "properties": {
+        "importHoverPreview.previewLines": {
+          "type": "number",
+          "default": 10,
+          "description": "Number of lines to show in the hover preview."
+        }
+      }
+    }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
