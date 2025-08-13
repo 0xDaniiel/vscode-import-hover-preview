@@ -1,37 +1,16 @@
-Core Features
-Save code snippets locally
+Here’s the full feature list from your earlier plan:
 
-Store snippets in a JSON file inside the user’s project.
+**MVP Features (Week 1 Build)**
 
-Option to choose custom save location.
+1. Hover Preview on Import Path
+2. Basic Syntax Highlighting in Tooltip
+3. Configurable Preview Lines
+4. Click to Open Full File
 
-Retrieve snippets
-
-Search snippets by name or keyword.
-
-List all saved snippets in a neat format.
-
-Update snippets
-
-Edit snippet content or rename it without creating duplicates.
-
-Delete snippets
-
-Remove a snippet by name or ID.
-
-Extra Features (still simple)
-Tags
-
-Add tags to snippets for easier categorization (e.g., auth, database, UI).
-
-Language detection
-
-Automatically detect snippet’s programming language from file extension for organization.
-
-Quick copy to clipboard
-
-snippet copy <name> copies snippet content directly to the clipboard.
-
-Export & import snippets
-
-Easily share all your snippets with others or sync between projects.
+**Future Features (Optional Upgrades)**
+5\. Preview on Hover Anywhere in Code
+6\. Line Number Jump
+7\. Diff Preview
+8\. Dark/Light Theme Match
+9\. Multi-Language Support
+10\. Inline Expand Button

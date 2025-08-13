@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+
+# Build output
+out/
+dist/
+
+# Source control
+.git/
+.gitignore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Documentation
+CHANGELOG.md
+README.md
+LICENSE
+docs/
+
+# Tests
+**/*.test.js
+**/*.spec.js
+tests/

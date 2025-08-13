@@ -1,0 +1,68 @@
+{
+  "name": "vscode-import-hover-preview",
+  "displayName": "Import Hover Preview",
+  "description": "Hover over an import path to instantly preview the file’s contents — with syntax highlighting, configurable preview lines, and a click-to-open option.",
+  "version": "0.1.0",
+  "publisher": "0xDaniiel",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "onLanguage:javascript",
+    "onLanguage:typescript"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "javascript",
+        "aliases": [
+          "JavaScript",
+          "js"
+        ],
+        "extensions": [
+          ".js",
+          ".jsx"
+        ]
+      },
+      {
+        "id": "typescript",
+        "aliases": [
+          "TypeScript",
+          "ts"
+        ],
+        "extensions": [
+          ".ts",
+          ".tsx"
+        ]
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xDaniiel/vscode-import-hover-preview.git"
+  },
+  "keywords": [
+    "vscode",
+    "extension",
+    "hover",
+    "import",
+    "preview"
+  ],
+  "author": "0xDaniiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xDaniiel/vscode-import-hover-preview/issues"
+  },
+  "homepage": "https://github.com/0xDaniiel/vscode-import-hover-preview#readme",
+  "devDependencies": {
+    "@types/vscode": "^1.102.0",
+    "@vscode/test-electron": "^2.5.2"
+  }
+}
