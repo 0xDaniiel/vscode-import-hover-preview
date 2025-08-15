@@ -38,6 +38,16 @@
           ".ts",
           ".tsx"
         ]
+      },
+      {
+        "id": "python",
+        "aliases": [
+          "Python",
+          "py"
+        ],
+        "extensions": [
+          ".py"
+        ]
       }
     ],
     "configuration": {

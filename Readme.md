@@ -47,4 +47,4 @@ npm install
 
 ## 📜 License
 
-[MIT](LICENSE)
+[ISC](LICENSE)
