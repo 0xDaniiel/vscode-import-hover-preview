@@ -1,7 +1,7 @@
 {
   "name": "vscode-import-hover-preview",
   "displayName": "Import Hover Preview",
-  "description": "Hover over an import path to instantly preview the file’s contents — with syntax highlighting, configurable preview lines, and a click-to-open option.",
+  "description": "Hover over an import path to instantly preview the file's contents — with syntax highlighting, configurable preview lines, and a click-to-open option.",
   "version": "0.1.0",
   "publisher": "0xDaniiel",
   "engines": {

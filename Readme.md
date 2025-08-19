@@ -38,13 +38,6 @@ npm install
 
 ---
 
-## 🗺 Roadmap
-
-- Preview on hover anywhere in code (not just imports).
-- Jump to specific lines from `./file.js:45`.
-- Diff preview for unsaved changes.
-- Multi-language support.
-
 ## 📜 License
 
 [ISC](LICENSE)
