@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "publisher": "0xDaniiel",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.102.0"
   },
   "categories": [
     "Other"
