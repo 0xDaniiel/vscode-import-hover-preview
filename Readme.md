@@ -1,5 +1,13 @@
 # VS Code Import Hover Preview
 
+![Version](https://img.shields.io/visual-studio-marketplace/v/0xDaniiel.vscode-import-hover-preview)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/0xDaniiel.vscode-import-hover-preview)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/0xDaniiel.vscode-import-hover-preview)
+
+A VS Code extension that lets you **hover over an import path** to instantly preview the file’s contents...
+
+# VS Code Import Hover Preview
+
 A VS Code extension that lets you **hover over an import path** to instantly preview the file’s contents — with syntax highlighting, configurable preview lines, and a click-to-open option.
 
 ---
@@ -15,7 +23,7 @@ A VS Code extension that lets you **hover over an import path** to instantly pre
 
 ## 🚀 Installation
 
-1. Download from the [VS Code Marketplace](#) _(coming soon)_.
+1. Download from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=0xDaniiel.vscode-import-hover-preview)
 2. Or clone and install locally:
 
 ```bash
@@ -30,6 +38,17 @@ npm install
 2. A tooltip will appear with the file’s preview.
 3. Click inside the tooltip to open the file fully.
 
+## ✨ Features
+
+```
+| Feature             | Description                         |
+| ------------------- | ----------------------------------- |
+| Hover Preview       | See file contents on hover          |
+| Syntax Highlighting | Color-coded preview for readability |
+| Configurable Lines  | Choose how many lines to display    |
+| Click-to-Open       | Open the file directly from tooltip |
+```
+
 ---
 
 ## 🛠 Configuration
@@ -40,4 +59,4 @@ npm install
 
 ## 📜 License
 
-[ISC](LICENSE)
+[ISC](LICENSE.txt)
