@@ -40,16 +40,18 @@ npm install
 
 ## ✨ Features
 
-```
 | Feature             | Description                         |
 | ------------------- | ----------------------------------- |
 | Hover Preview       | See file contents on hover          |
 | Syntax Highlighting | Color-coded preview for readability |
 | Configurable Lines  | Choose how many lines to display    |
 | Click-to-Open       | Open the file directly from tooltip |
-```
 
 ---
+
+## 🎥 Demo
+
+![Hover Preview Demo](images/demo.gif)
 
 ## 🛠 Configuration
 
