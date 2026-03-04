@@ -2,7 +2,7 @@
   "name": "vscode-import-hover-preview",
   "displayName": "Import Hover Preview",
   "description": "Hover over an import path to instantly preview the file's contents — with syntax highlighting, configurable preview lines, and a click-to-open option.",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "publisher": "0xDaniiel",
   "engines": {
     "vscode": "^1.102.0"
@@ -85,6 +85,7 @@
   "homepage": "https://github.com/0xDaniiel/vscode-import-hover-preview#readme",
   "devDependencies": {
     "@types/vscode": "^1.102.0",
-    "@vscode/test-electron": "^2.5.2"
+    "@vscode/test-electron": "^2.5.2",
+    "@vscode/vsce": "^3.7.1"
   }
 }
