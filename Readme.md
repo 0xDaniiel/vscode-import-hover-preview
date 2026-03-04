@@ -8,7 +8,7 @@ A VS Code extension that lets you **hover over an import path** to instantly pre
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature             | Description                             |
 | ------------------- | --------------------------------------- |
@@ -19,7 +19,7 @@ A VS Code extension that lets you **hover over an import path** to instantly pre
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Download from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=0xDaniiel.vscode-import-hover-preview)
 2. Or clone and install locally:
@@ -30,22 +30,22 @@ cd vscode-import-hover-preview
 npm install
 ```
 
-## 📖 Usage
+## Usage
 
 1. Hover over any import path (e.g., `import x from './file.js'`).
 2. A tooltip will appear with the file’s preview.
 3. Click inside the tooltip to open the file fully.
 
-## 🎥 Demo
+## Demo Video below
 
 ![Hover Preview Demo](images/demo.gif)
 
-## 🛠 Configuration
+## Configuration
 
 - `importHoverPreview.previewLines` — Number of lines to show _(default: 10)_.
 
 ---
 
-## 📜 License
+## License
 
 [ISC](LICENSE.txt)

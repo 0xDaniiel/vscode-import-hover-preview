@@ -1,6 +1,6 @@
 # Contributing to VS Code Import Hover Preview
 
-First off, thank you for considering contributing! 🎉  
+First off, thank you for considering contributing!  
 We welcome pull requests, bug reports, and feature suggestions.
 
 ---
